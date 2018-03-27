@@ -1,0 +1,11 @@
+#area-tabuada {
+	border: 1px solid #000;
+}
+
+label {
+	margin-right: 10px;
+}
+
+input {
+	width: 40px;
+}
