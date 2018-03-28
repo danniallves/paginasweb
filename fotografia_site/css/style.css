@@ -1,0 +1,228 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/* HEADER */
+
+#navbar{
+	 border-color: transparent;
+}
+
+#menuprincipal{
+	padding-top: 50px;
+}
+
+#menuprincipal a:hover{
+	color: #9D6D63;
+}
+
+#menuprincipal a{
+	color: #fff;
+}
+
+#logo img{
+	width: 50%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.navbar-default {
+	background-color: #414E65 !important
+}
+
+@media all and (max-width: 980px) and (min-width: 768px) {
+
+	.navbar-header {
+	    float: left;
+	    width: 20%;
+	}
+
+	#logo img {
+	    width: 100%;
+	}
+}
+
+@media all and (max-width:  768px) {
+
+	#logo img {
+	    width: 30%;
+	    padding-left: 25px;
+	}
+}
+
+
+@media	all and (max-width: 980px) {
+
+	#menuprincipal {
+	    padding-top: 30px;
+	}
+
+}
+/* Container um*/
+
+#containerum {
+    
+    padding-top: 250px;
+    background-image: url("../media/imagemprincipal.jpg");
+    height: 700px;
+}
+
+#textos{
+	text-align: center;
+	color: #fff;
+}
+
+.subtituloum{
+	font-weight: bold;	
+}
+
+#paragrafoum{
+	padding-top: 10px;	
+}
+
+#titulprincipal{
+	font-size: 50px;
+}
+
+#buttons{
+	padding-top: 40px;
+}
+
+#buttonprincipal{
+	border-radius: 30px;
+	background-color: #BE9E21;
+	color: #fff;
+}
+
+#buttondois{
+	border-radius: 30px;
+	border-style: double 1px;
+	background: transparent;
+	border-color: #BE9E21;
+	color: #fff;
+}
+
+#buttondois:hover{
+	background-color: #BE9E21;
+	color: #fff;
+	transition: 0.3s;
+} 
+
+
+@media all and (max-width: 768px) {
+	#default-button, #learn-more {
+		text-align: center;
+		margin: 10px 0;
+	}
+}
+
+
+#default-button {
+    text-align: right;
+}
+
+#learn-more {
+    text-align: left;
+}
+
+
+.navbar-toggle .icon-bar {
+    background: #fff none repeat scroll 0 0;
+}
+
+
+
+/* Container dois*/
+
+#containerdois{
+	background-color: #F3F4F8;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#textosdois{
+	color: #515B6F;
+	text-align: center;
+}
+
+#titulocontainerdois{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#paragrafodois{
+	padding-top: 10px;
+}
+
+#tracinho{
+	font-size: 25px;
+	font-weight: bold;
+	color: #515B6F;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+}
+
+
+#menu-principal {
+    padding-top: 55px;
+}
+
+
+/* Container três*/
+
+#containertres{
+	padding-top: 150px;
+	background-color: #414E65;
+	color: #fff;
+	text-align: center;
+	height: 810px;
+}
+
+#titulofim{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+#paragrafofim{
+	padding-top: 10px;
+}
+
+#tracinhodois{
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+	padding-top: px;
+	padding-bottom: 30px;
+
+}
+
+
+/* container quatro */
+
+#containerquatro{
+	color:#080808;
+	text-align: center;
+	background-color: #fff;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+
+/* formultario */
+
+#formname , #formemail , #formsubject, #formensage{
+	background-color: transparent;
+	border-style: double 1px;
+	background: transparent;
+	border-color: #BE9E21;
+
+}
+
+
+form input {
+	margin-bottom: 20px;
+}
+
+
