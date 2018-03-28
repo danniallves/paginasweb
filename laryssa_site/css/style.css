@@ -1,0 +1,356 @@
+/*HEADER - menu1*/
+
+#menum{
+	background-color: #400F1F;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+div#email.col-md-10{
+	color: #fff;
+}
+
+div#redesociais.col-md-2{
+	color: #fff;
+}
+i#fb.fa.fa-facebook{
+	line-height: 20px;
+	float: right;
+}
+i#insta.fa.fa-instagram{
+	float: right;
+	padding-right: 10px;
+	line-height: 20px;
+}
+/*HEADER - menu2*/
+
+nav#menuprincipal.navbar.navbar-default{
+	background-color: #fff !important;
+	border-color: transparent;
+	border-radius: 0px !important;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+img#imglogo{
+	width: 25%;
+}
+ul#segundomenu.nav.navbar-nav.navbar-right{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+a#divlogo.navbar-brand{
+	padding-top: 15px;
+}
+
+.navbar{
+	margin-bottom: 0px !important;
+}
+
+/*BLOCOS*/
+
+#blocos-inicio{
+	background-color: #400919;
+}
+
+#camera , #designer , #fale-comigo {
+	text-align: center;
+	font-size: 50px;
+	padding-top: 70px;
+	color: #fff;
+}
+
+#textos-design , #textos-camera , #textos-falecomigo{
+	text-align: center;
+	padding-bottom: 70px;
+	color: #fff;
+}
+/*APRESENTAÇÃO*/
+
+#apresentacao{
+	background-color: #fff;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+#tit-apresentacao{
+	text-align:center;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 50px;
+}
+
+#tit-apresentacao2{
+	text-align: left !important;
+	color: #400919;
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 50px;
+}
+
+#tit-apresentacao3{
+	text-align: center !important;
+	color: #000;
+	font-size: 25px;
+	font-weight: bold;
+	padding-bottom: 25px;
+}
+
+#sub-apresentacao{
+	color: #400919;
+	font-size: 14px;
+}
+
+#texto-ensaios{
+	padding-top: 100px;
+}
+
+#img-quinzeanos{
+	width: 100%;
+}
+
+#img-casamento{
+	width: 100%;
+}
+
+#img-bebes{
+	width: 100%;
+}
+
+#img-ensaio1{
+	width: 100%;
+}
+
+#ensaios{
+	float: right;
+}
+div#ensaios.col-md-8{
+	padding: 0px !important;
+}
+div#div-casamento.col-md-6 , div#div-quinzeanos.col-md-6 , div#div-bebes.col-md-6 , 
+div#div-ensaio1.col-md-6{
+	padding: 0px !important;
+}
+
+#button-principal{
+	padding-left: 75px;
+    padding-right: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff !important;
+    background-color: #0E0004 !important;
+}
+
+
+/*CONTAINERUM - menu2*/
+
+#container-um{
+	background-color: #000;
+	padding-top: 10%;
+}
+img#lari{
+	width: 60%;
+	float: right;
+}
+div#img-lari{
+	text-align: center;
+}
+#sub-areacentral{
+	padding-top: 25px;
+	color: #fff;
+}
+#tit-areacentral{
+	font-size: 25px;
+	font-weight: bold;
+	color: #fff;
+}
+
+/*CONTAINEREXTRA */
+#container-extra{
+	background-color: #000;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+h2{
+	text-align: center;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	
+	padding-bottom: 0px;
+	margin: 0px !important;
+}
+
+/* Container - portifólio */
+
+#container-portifolio{
+	background-color: #0E0004;
+	padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+#div-img-work3 ,  #div-img-work2 , #div-img-work1 , #div-img-work4 {
+	text-align: center;
+	width: 100%;
+}
+#img-work3 , #img-work1 , #img-work2 , #img-work4 {
+	width: 100%;
+}
+
+#button-principal-dois{
+	padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+#button-portif{
+	text-align: center;
+
+    margin-top: -25px;
+    padding-bottom: 30px;
+}
+#sub-works{
+	text-align: center;
+}
+
+/* CONTATO */
+#contatinho{
+	padding-top: 100px;
+	padding-bottom: 150px;
+}
+div#nome.col-md-4 , div#email.col-md-4 , div#assunto.col-md-8 , div#mensagem.col-md-8 {
+	padding: 0px !important;
+}
+
+div#nome.col-md-offset-2.col-md-4{
+	margin-bottom: 15px;
+}
+
+div#assunto.col-md-offset-2.col-md-8{
+	margin-bottom: 15px;
+}
+
+.form-control{
+	border: none !important;
+    border-bottom: 2px solid rgba(44,8,22,0.4) !important;
+    border-radius: 0px;
+    padding: 10px !important;
+    box-shadow : none;
+    transition: all .3s;
+    position: absolute;
+    padding-left: 25px !important;
+}
+
+span.glyphicon.glyphicon-user , span.glyphicon.glyphicon-envelope , 
+span.glyphicon.glyphicon-user , span.glyphicon.glyphicon-check{
+	top: 6px;
+}
+
+#bolinhas{
+	text-align: center;
+	padding-left: 70px;
+	padding-bottom: 50px;
+	font-size: 25px;
+}
+
+/* REDES SOCIAIS */
+
+#redes-sociais{
+	background-color: #2A030E;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#text-insta{
+	text-align: center;
+	font-size: 15px;
+}
+#footer-um{
+	padding-top: 100px;
+    padding-bottom: 20px;
+    background-color: #160B0E;
+}
+
+#fb-footer , #fb-insta , #fb-email {
+	float: left;
+	background-color: #2A030E;
+	padding: 15px;
+	color: #fff;
+	border-radius: 10px;
+}
+
+#text-icon-footer{
+	padding-left: 84px !important;
+    color: #fff;
+    background-color: #000;
+    padding: 14px;
+    border-radius: 10px;
+}
+
+/* FOOTER */
+
+#ensaios-2{
+	float: left;
+}
+
+#imglogo-footer{
+	width: 30%;
+}
+
+#texto-footer-h4{
+	font-size: 14px;
+    color: #fff;
+    padding-top: 5px;
+}
+#texto-footer-h4.col-md-8{
+	padding: 0px;
+}
+
+#tit-footer{
+	font-size: 20px;
+    color: #fff;
+    padding-top: 5px;
+}
+
+a.li-footer{
+	padding: 0px !important;
+	color: #fff;
+    font-size: 15px;
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+	background-color: transparent;
+}
+
+#li{
+	padding-bottom: 15px;
+
+}
+#ensaios-2{
+	padding-bottom: 50px;
+}
+
+#copyright{
+	border-top: 1px solid #fff;
+}
+
+#copy-final{
+	padding-top: 15px;
+	color: #fff;
+	text-align: center;
+	font-size: 10px;
+}
+span.glyphicon.glyphicon-chevron-right{
+	float: left;
+	padding-right: 10px;
+	color: #020202;
+
+}
+ul#menufooter.nav.nav-pills.nav-stacked{
+	padding-top: 65px;
+}
+
+#ensaioss{
+	padding-top: 15px;
+
+}
